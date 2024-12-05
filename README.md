@@ -1,4 +1,4 @@
-# computer-graphics
+# Computer Graphics
 This repository contains coursework from the UCL Computer Graphics module, including ray tracing, rasterization, and path tracing using OpenGL.
 
 - Ray-tracing: defining geometry, computing ray intersections, casting shadows, reflections, refractions, and Fresnel.
