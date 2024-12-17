@@ -14,5 +14,4 @@ Note: Source code is not shared due to class materials.
 <img width="577" alt="Screenshot 2024-12-05 at 2 09 00" src="https://github.com/user-attachments/assets/ec9991a4-9907-49a4-a23b-fdb0c813bad0">
 
 ## Path Tracing
-<img width="577" alt="Screenshot 2024-12-17 at 15 06 12" src="https://github.com/user-attachments/assets/481ca06a-c685-453f-a768-26767c885941" />
-
+<img width="577" alt="Screenshot 2024-12-17 at 15 15 35" src="https://github.com/user-attachments/assets/d8b52655-53c9-4661-a310-18eff55722bc">
