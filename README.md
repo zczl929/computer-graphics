@@ -5,10 +5,14 @@ This repository contains coursework from the UCL Computer Graphics module, inclu
 - Rasterization: Projection, clipping, rasterization, interpolation, z-buffering, texturing, and anti-aliasing.
 - Path tracing: bouncing lights, physically-correct Phong, Halton sampling, anti-aliasing, importance sampling, and motion blurs.
 
-Note: Source code is not shared to comply with academic policies.
+Note: Source code is not shared due to class materials.
 
 ## Ray-tracing 
 <img width="577" alt="Screenshot 2024-12-05 at 2 07 20" src="https://github.com/user-attachments/assets/9919975a-57b0-4afc-acd9-67385e4fb9be">
 
 ## Rasterization
-<img width="576" alt="Screenshot 2024-12-05 at 2 09 00" src="https://github.com/user-attachments/assets/ec9991a4-9907-49a4-a23b-fdb0c813bad0">
+<img width="577" alt="Screenshot 2024-12-05 at 2 09 00" src="https://github.com/user-attachments/assets/ec9991a4-9907-49a4-a23b-fdb0c813bad0">
+
+## Path Tracing
+<img width="577" alt="Screenshot 2024-12-17 at 15 06 12" src="https://github.com/user-attachments/assets/481ca06a-c685-453f-a768-26767c885941" />
+
